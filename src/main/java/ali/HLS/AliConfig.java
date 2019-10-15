@@ -19,4 +19,6 @@ public class AliConfig {
     //解密接口url
     public static String decryptKeyUri ="http://172.18.0.206/api/aliyun/video/HlsDecrypt?";
 
+    
+    
 }
